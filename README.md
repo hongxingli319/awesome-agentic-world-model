@@ -181,6 +181,10 @@ Each proxy function answers a different *question* for the agent, but all return
 | `LeWM+I` | [![arXiv](https://img.shields.io/badge/arXiv-2610.03137-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.03137)<br>Keeping JEPA World Models Plannable When Little of the Frame Moves | arXiv 2026 |
 | `SufficientPlan` | [![arXiv](https://img.shields.io/badge/arXiv-2610.08350-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.08350)<br>How Much Planning Is Enough? Reducing Search and Computation in World-Model Planning | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2610.19579-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.19579)<br>Back on Track: Deployment-time Policy Improvement via World Model Planning | arXiv 2026 |
+| `VQ-WM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25600-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25600)<br>Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation | arXiv 2026 |
+| `ActTime` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25764-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25764)<br>ActTime: Action-Conditioned World Modeling for Time Series | arXiv 2026 |
+| `EmbodiedWorld-200K` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25959-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25959)<br>EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models · [Project](https://xiaokunfeng.github.io/EmbodiedWorld-200K/) | arXiv 2026 |
+| `Ropedia W0` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26855-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26855)<br>Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience · [Project](https://ropedia.github.io/ropedia-w0/) | arXiv 2026 |
 
 
 ## Spatial Proxy
@@ -289,6 +293,8 @@ Each proxy function answers a different *question* for the agent, but all return
 | `WM-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2608.27508-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.27508)<br>WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2609.02885-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.02885)<br>Discriminative World Models for Web Agents | arXiv 2026 |
 | `EvoBelief` | [![arXiv](https://img.shields.io/badge/arXiv-2610.12789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.12789)<br>EvoBelief: Falsifiable World Models for Self-Improving LLM Agents | arXiv 2026 |
+| `CoworkEnv` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24960-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24960)<br>CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents · [Code](https://github.com/HKUST-KnowComp/CoworkEnv) | arXiv 2026 |
+| `WildAWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26828-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26828)<br>Agent World Model in the Wild: Computer-Use Agent Environment Synthesis · [Code](https://github.com/MSR-Orchard/WildAWM) | arXiv 2026 |
 
 
 ## Memory, Experience & Skill Proxy
@@ -325,9 +331,12 @@ Each proxy function answers a different *question* for the agent, but all return
 | `LUCID` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07746-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07746)<br>LUCID: Latent-Skill Unified Control via Imagined Dynamics for Long-Horizon Humanoid Loco-Manipulation | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09168-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09168)<br>From Relevance to Execution Utility: Reward-Aware Dynamic Execution Gating for Skill-Based LLM Agents | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18647-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18647)<br>Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation | arXiv 2026 |
+| `MemoWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.10778-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.10778)<br>MemoWM: How World Models Change What Agents Need to Remember · [Code](https://github.com/Feld-maxiu/MemoWM) | arXiv 2026 |
 | `TallyMem` | [![arXiv](https://img.shields.io/badge/arXiv-2610.19474-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.19474)<br>Beyond Retrieval: Evidence Access and Event Aggregation in Agent Memory | arXiv 2026 |
 | `MemComposer` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21091-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21091)<br>MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning | arXiv 2026 |
+| `AiO-Mem` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21147-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21147)<br>All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents | arXiv 2026 |
 | `MemScope` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21170-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21170)<br>MemScope: Evolving Agent Memory Architectures through Localized Code Repair | arXiv 2026 |
+| `TrackRL` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25126-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25126)<br>Trackable Skill Library Lifecycle Management for Agentic Reinforcement Learning | arXiv 2026 |
 
 
 ## Reward / Verification Proxy
@@ -375,6 +384,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.05643-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.05643)<br>Refining Over Resampling: Test-Time Self-Correction for LLM Reasoning | arXiv 2026 |
 | `ARC` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13622-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13622)<br>ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction | arXiv 2026 |
 | `LGWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.11942-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.11942)<br>Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents | arXiv 2026 |
+| `VeriVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21985-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21985)<br>VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models | arXiv 2026 |
 
 
 # Empowerment Levels (L1 / L2 / L3)
@@ -427,6 +437,8 @@ Benchmarks and metrics for world models, fidelity and calibration limits, and th
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2607.27017-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.27017)<br>What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations | arXiv 2026 |
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14481-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14481)<br>Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes | arXiv 2026 |
 | `StateAliasBench` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32679-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32679)<br>The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models | arXiv 2026 |
+| `GlobeBench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.22708-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.22708)<br>GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations · [Code](https://github.com/patronus-ai/globebench) | arXiv 2026 |
+| `AnyGoal` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26844-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26844)<br>AnyGoal: On World Model Generalization Beyond Expert Rollouts · [Code](https://github.com/galilai-group/AnyGoal) · [Project](https://hazel-heejeong-nam.github.io/anygoal/) | arXiv 2026 |
 
 
 # Surveys & Related Work
