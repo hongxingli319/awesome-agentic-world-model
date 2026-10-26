@@ -186,6 +186,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `ActTime` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25764-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25764)<br>ActTime: Action-Conditioned World Modeling for Time Series | arXiv 2026 |
 | `EmbodiedWorld-200K` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25959-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25959)<br>EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models · [Project](https://xiaokunfeng.github.io/EmbodiedWorld-200K/) | arXiv 2026 |
 | `Ropedia W0` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26855-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26855)<br>Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience · [Project](https://ropedia.github.io/ropedia-w0/) | arXiv 2026 |
+| `DRILL` | [![arXiv](https://img.shields.io/badge/arXiv-2610.30814-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.30814)<br>DRILL: Training World Models to Improve Policies, Not Predict Pixels | arXiv 2026 |
 
 
 ## Spatial Proxy
@@ -249,6 +250,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09073-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09073)<br>Latent World Models with Monotone Planning Costs for Image-Goal Navigation | arXiv 2026 |
 | `Orbit` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16651-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16651)<br>Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents | arXiv 2026 |
 | `World` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19661-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19661)<br>World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | arXiv 2026 |
+| `WorldMirror` | [![arXiv](https://img.shields.io/badge/arXiv-2610.31834-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.31834)<br>WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations | arXiv 2026 |
 
 
 ## Execution Proxy
@@ -296,6 +298,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `EvoBelief` | [![arXiv](https://img.shields.io/badge/arXiv-2610.12789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.12789)<br>EvoBelief: Falsifiable World Models for Self-Improving LLM Agents | arXiv 2026 |
 | `CoworkEnv` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24960-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24960)<br>CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents · [Code](https://github.com/HKUST-KnowComp/CoworkEnv) | arXiv 2026 |
 | `WildAWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26828-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26828)<br>Agent World Model in the Wild: Computer-Use Agent Environment Synthesis · [Code](https://github.com/MSR-Orchard/WildAWM) | arXiv 2026 |
+| `Trace2World` | [![arXiv](https://img.shields.io/badge/arXiv-2610.30792-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.30792)<br>Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training | arXiv 2026 |
 
 
 ## Memory, Experience & Skill Proxy
