@@ -299,6 +299,7 @@ Each proxy function answers a different *question* for the agent, but all return
 | `CoworkEnv` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24960-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24960)<br>CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents · [Code](https://github.com/HKUST-KnowComp/CoworkEnv) | arXiv 2026 |
 | `WildAWM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26828-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26828)<br>Agent World Model in the Wild: Computer-Use Agent Environment Synthesis · [Code](https://github.com/MSR-Orchard/WildAWM) | arXiv 2026 |
 | `Trace2World` | [![arXiv](https://img.shields.io/badge/arXiv-2610.30792-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.30792)<br>Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training | arXiv 2026 |
+| `MIMESIS` | [![arXiv](https://img.shields.io/badge/arXiv-2610.09484-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.09484)<br>MIMESIS: Learning User Simulators as Training Environments for Interactive Agents · [Project](https://viethoang1512.github.io/mimesis/) · [Code](https://github.com/VietHoang1512/mimesis) · [Models](https://huggingface.co/collections/phanviethoang1512/mimesis)<br><kbd>L2</kbd> Frozen user simulator for multi-turn agent RL; CSD provides training-only supervision. | arXiv 2026 |
 
 
 ## Memory, Experience & Skill Proxy
